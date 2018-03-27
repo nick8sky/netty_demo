@@ -1,0 +1,12 @@
+
+# misc
+.DS_Store
+/.idea/
+/logs/
+/target/
+
+
+/gateway_service_A/target/
+/gateway_service_B/target/
+/gateway_common/target/
+/gateway_accept/target/
